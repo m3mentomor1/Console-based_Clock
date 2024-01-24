@@ -1,15 +1,3 @@
-
-# --------------------------------------
-# File Name: 24_Hr_Clock.py
-# --------------------------------------
-# Date Finished: 07-21-2022
-# --------------------------------------
-# Description:
-# This is a simple 24-hour format console 
-# clock that shows the current date, time, 
-# & timezone used continuously.  
-# --------------------------------------
-
 import time
 
 print("\nCurrent Date & Time: ")
