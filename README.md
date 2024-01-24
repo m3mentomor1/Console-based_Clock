@@ -17,6 +17,8 @@ This is a simple console clock that shows the current date, time, & timezone use
 
 **24-hour Format**
 
+![gif22 (1)](https://github.com/m3mentomor1/Console_Clock/assets/95956735/4b7ebec9-cab9-454c-b1b8-63c3fb9ca652)
+
 ----------------------
 
 ### 🛠️ IV. How to Use?
