@@ -11,6 +11,7 @@ This is a simple console clock that shows the current date, time, & timezone use
 ----------------------
 
 ### ⏯️ III. Demo
+**12-hour Format**
 ![gif](https://github.com/m3mentomor1/Console_Clock/assets/95956735/27cc285b-87a2-4533-bd02-b3564ab0f2ce)
 
 ----------------------
