@@ -27,12 +27,12 @@ This is a simple console clock that shows the current date, time, & timezone use
 
 > **1. Create a copy of this repository:**
    ```
-   git clone https://github.com/m3mentomor1/Console_Clock.git
+   git clone https://github.com/m3mentomor1/Console-based_Clock.git
    ```
 
 > **2. Go to the repository's main directory:**
    ```
-   cd Console_Clock
+   cd Console-based_Clock
    ```
 ##
 **Method 2: Fork repository**
