@@ -1,7 +1,7 @@
 # Console-based Clock
 
 ### 🧐 I. Overview
-This is a simple console clock that shows the current date, time, & timezone used continuously.
+This is a simple real-time console clock that shows the current date, time, & timezone used continuously.
 
 ----------------------
 
