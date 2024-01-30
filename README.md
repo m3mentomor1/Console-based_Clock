@@ -1,4 +1,4 @@
-# Console_Clock
+# Console-based Clock
 
 ### 🧐 I. Overview
 This is a simple console clock that shows the current date, time, & timezone used continuously.
