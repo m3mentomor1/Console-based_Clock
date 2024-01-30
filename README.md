@@ -6,7 +6,7 @@ This is a simple console clock that shows the current date, time, & timezone use
 ----------------------
 
 ### 📦 II. Dependencies
-- **Time** - a module in the Python standard library used for various time-related functions.
+- ```Time``` - a module in the Python standard library used for various time-related functions.
 
 ----------------------
 
@@ -21,18 +21,20 @@ This is a simple console clock that shows the current date, time, & timezone use
 
 ----------------------
 
-### 🛠️ IV. How to Use?
+### 🛠️ IV. How to use this repository?
+##
+**Method 1: Clone repository**
 
-**1. Clone this repository**
-
-   Paste this command on your terminal: 
+> **1. Create a copy of this repository:**
    ```
    git clone https://github.com/m3mentomor1/Console_Clock.git
    ```
 
-**2. Go to the repository's main directory**
-   
-   Paste this command on your terminal:
+> **2. Go to the repository's main directory:**
    ```
    cd Console_Clock
    ```
+##
+**Method 2: Fork repository**
+
+Click the ```Fork``` button at the top right corner of this page to create a copy of this repository in your GitHub account.
