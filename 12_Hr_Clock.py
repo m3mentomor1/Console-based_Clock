@@ -3,7 +3,7 @@ import time
 print("\nCurrent Date & Time: ")
 
 while True:
-    # Displays the current date, time, & timezone:
+    # Displays the current date, time (12-hour format), & timezone:
     print(time.strftime('%m/%d/%Y, %a | %I:%M:%S %p (%Z %z)'),  
     end='\r')       # Keeps the printed output on the same line.
     
